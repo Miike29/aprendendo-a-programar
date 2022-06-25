@@ -10,7 +10,9 @@ let age2 = 18
 let age3 = 20
 
 // chame a função legalAgeOrNot que você construiu logo abaixo deste comentário para cada uma das idades em age1, age2, age3.
-
+legalAgeOrNot(age1)
+legalAgeOrNot(age2)
+legalAgeOrNot(age3)
 
 if (age1,age2,age3 >= 18) {
     console.log("A idade é maior ou igual a 18 anos. Pode entrar na boate")
